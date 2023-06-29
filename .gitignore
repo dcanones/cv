@@ -1,3 +1,9 @@
+# jetbrains
+
+.idea
+
+# latex
+
 *.aux
 *.log
 *.out
